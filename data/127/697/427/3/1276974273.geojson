@@ -38,7 +38,7 @@
         "wk:page":"Choeung_Ek"
     },
     "wof:country":"KH",
-    "wof:geomhash":"5d487bf79bf13578e40f167c5e7b46e0",
+    "wof:geomhash":"d9e08f98cae3f76a78d86d46d5dfe2b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,5 +64,5 @@
     104.90198999999998,
     11.48439
 ],
-  "geometry": {"coordinates":[104.90198999999998,11.48439],"type":"Point"}
+  "geometry": {"coordinates":[104.90199,11.48439],"type":"Point"}
 }

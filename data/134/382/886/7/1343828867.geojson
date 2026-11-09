@@ -44,7 +44,7 @@
         "gn:id":11482206
     },
     "wof:country":"KH",
-    "wof:geomhash":"58c0425160badc299dd4bf587d06409e",
+    "wof:geomhash":"b36121db4bd21a0115e2791592bdcabd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,5 +70,5 @@
     105.56716000000002,
     11.36699
 ],
-  "geometry": {"coordinates":[105.56716000000002,11.36699],"type":"Point"}
+  "geometry": {"coordinates":[105.56716,11.36699],"type":"Point"}
 }

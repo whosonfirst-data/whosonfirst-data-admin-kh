@@ -44,7 +44,7 @@
     },
     "wof:country":"KH",
     "wof:created":1459009164,
-    "wof:geomhash":"eae3d02fe2d764b9071e89a73511a258",
+    "wof:geomhash":"631535aec7bf7c9d48e04ac0a49c01ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     104.0679995,
     10.6228625
 ],
-  "geometry": {"coordinates":[104.0679995,10.6228625],"type":"Point"}
+  "geometry": {"coordinates":[104.068,10.622863],"type":"Point"}
 }

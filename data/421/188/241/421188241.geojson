@@ -42,7 +42,7 @@
     },
     "wof:country":"KH",
     "wof:created":1459009539,
-    "wof:geomhash":"a31b1c30222fb035a3c5d14c73be3e5b",
+    "wof:geomhash":"54e35734feffdc3a88ac5657651541fc",
     "wof:hierarchy":[
         {
             "country_id":85632359,
@@ -65,5 +65,5 @@
     103.54528,
     10.590277
 ],
-  "geometry": {"coordinates":[103.54528000000001,10.590277],"type":"Point"}
+  "geometry": {"coordinates":[103.54528,10.590277],"type":"Point"}
 }
